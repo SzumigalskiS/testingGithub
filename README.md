@@ -28,4 +28,4 @@ if (isAwesome){
 }
 ```
 
-![Picture]/images/me3.jpg
+![Picture](/images/me3.jpg)
